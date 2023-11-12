@@ -1,0 +1,36 @@
+h1{
+  color: purple;
+}
+
+h2{
+  color: cornflowerblue;
+} 
+
+h3{
+  color: red;
+}
+
+h4{
+  color: grey;
+}
+h5{
+  color: green
+}
+h6{
+  color:olive
+}
+
+img {
+  border-radius: 50%;
+}
+
+body{
+background-image: linear-gradient(45deg, silver, white);
+}
+
+nav ul li a{
+  color: #8B8000
+}
+ul li {
+  color: #8B8000
+}
